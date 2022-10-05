@@ -25,13 +25,15 @@
 
 <h2 align="center"> 🔭 Tech Stack </h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/-html5-005571?style=for-the-badge&logo=html5" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-316192?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/flask-E97627?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <hr>
