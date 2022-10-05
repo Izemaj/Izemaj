@@ -17,7 +17,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp> A Full-Stack Developer, proficient in front end development and back end web development, coding with HTML, CSS, and Javascript for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework. Adapt in using MySQL database in supporting my work in both development and production of code.
+  <samp> A Full-Stack Developer, proficient in front end development and back end web development. Comfortable coding with HTML, CSS, and Javascript for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework. Adapt in using MySQL database in supporting my work in both development and production of code.
   </samp>
 </p>
 
