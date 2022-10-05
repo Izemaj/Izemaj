@@ -1,9 +1,9 @@
-<div id="header" align="center">
+<div id="header" align="center" style = "background-color:#000000">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height= "200"/>
 </div>
 
 
-<div id="badges"  align="center">
+<div id="badges"  align="center" style = "background-color:#000000">
                                         
   <a href="mailto:izemajebi2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -17,7 +17,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp> A Full-Stack Developer, proficient in front end development and back end web development, coding with HTML, CSS, and Javascript for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework.Adapt in using MySQL database in supporting my work in both development and production of code.
+  <samp> A Full-Stack Developer, proficient in front end development and back end web development, coding with HTML, CSS, and Javascript for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework. Adapt in using MySQL database in supporting my work in both development and production of code.
   </samp>
 </p>
 
@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/css3-316192?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/flask-00000F?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flask-E97627?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-017CEE?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
