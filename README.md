@@ -11,13 +11,13 @@
   <a href="https://www.linkedin.com/in/ize-majebi-55195824a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Hello+World+%2C+I'm+Ize%F0%9F%91%8B" alt="Typing SVG" /></a>
+    <br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Hello+World+👋🏽+I'm+Ize+.%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp> A Full-Stack Developer, proficient in front end development and back end web development, coding with HTML, CSS, and JS for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework. Adapt in relational ma
+  <samp> A Full-Stack Developer, proficient in front end development and back end web development, coding with HTML, CSS, and Javascript for the client-side and maintaining databases and infrastructure server-side using Python and Flask framework.
   </samp>
 </p>
 
