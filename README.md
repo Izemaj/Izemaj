@@ -5,10 +5,10 @@
 
 <div id="badges"  align="center" style = "background-color:#000000">
                                         
-  <a href="mailto:izemajebi2@gmail.com">
+  <a href="mailto:izemajebi2@gmail.com" target = "_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ize-majebi-55195824a/">
+  <a href="https://www.linkedin.com/in/ize-majebi-55195824a/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <br><br>
